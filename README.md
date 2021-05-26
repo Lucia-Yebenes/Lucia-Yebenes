@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi I am Lucia Yebenes! 👋
+Full-Stack Developer at 4Geeks Academy
 
+
+```javascript
+const luciaYebenes = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, Jest],
+  
+}
+```
 <!--
+challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 **Lucia-Yebenes/Lucia-Yebenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
